@@ -1,6 +1,3 @@
 ﻿111222啊啊啊啊asdasd a a阿斯打扫打扫 啊啊啊啊
-<<<<<<< HEAD
-2222222222222222222222222222222
-=======
+asdddddddddddddddddddddddddddddddddddddddd
 111111111111111
->>>>>>> feature1
